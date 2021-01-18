@@ -17,7 +17,8 @@ Make a config.json file in the root directory of the project and add:
   "prefix": "!",
   "discord_owner_id": "Your-Discord-ID",
   "token": "Your-Bot-Token",
-  "youtubeAPI": "youtube-api-key"
+  "youtubeAPI": "youtube-api-key",
+  "reportChannel": "Channel-ID-To-Send-Error-Reports"
 }
 ```
 
@@ -28,6 +29,7 @@ Make a config.json file in the root directory of the project and add:
   "discord_owner_id": "Your-Discord-ID",
   "token": "Your-Bot-Token",
   "youtubeAPI": "youtube-api-key",
+  "reportChannel": "Channel-ID-To-Send-Error-Reports",
   "geniusLyricsAPI": "genius-api-key",
   "tenorAPI": "tenor-API-key",
   "newsAPI": "news-api-key",
